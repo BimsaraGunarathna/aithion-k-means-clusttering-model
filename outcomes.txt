@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-No. of under-developing countries : 35
-Under-developing countries: ['Afghanistan', 'Angola', 'Benin', 'Botswana', 'Burkina Faso', 'Burundi', 'Cameroon', 'Central African Republic', 'Chad', 'Comoros', 'Congo, Dem. Rep.', 'Congo, Rep.', 'Cote d'Ivoire', 'Equatorial Guinea', 'Eritrea', 'Gabon', 'Gambia', 'Ghana', 'Guinea', 'Guinea-Bissau', 'Haiti', 'Iraq', 'Kenya', 'Kiribati', 'Lao', 'Lesotho', 'Liberia', 'Madagascar', 'Malawi', 'Mali', 'Mauritania', 'Mozambique', 'Namibia', 'Niger', 'Nigeria', 'Pakistan', 'Rwanda', 'Senegal', 'Sierra Leone', 'South Africa', 'Sudan', 'Tanzania', 'Timor-Leste', 'Togo', 'Uganda', 'Yemen', 'Zambia', ]
-The no. of vaccines a country would receive: 571429.0
-=======
 No. of under-developing countries : 47
-Under-developing countries: ['Afghanistan', 'Angola', 'Benin', 'Botswana', 'Burkina Faso', 'Burundi', 'Cameroon', 'Central African Republic', 'Chad', 'Comoros', 'Congo, Dem. Rep.', 'Congo, Rep.', 'Cote d'Ivoire', 'Equatorial Guinea', 'Eritrea', 'Gabon', 'Gambia', 'Ghana', 'Guinea', 'Guinea-Bissau', 'Haiti', 'Iraq', 'Kenya', 'Kiribati', 'Lao', 'Lesotho', 'Liberia', 'Madagascar', 'Malawi', 'Mali', 'Mauritania', 'Mozambique', 'Namibia', 'Niger', 'Nigeria', 'Pakistan', 'Rwanda', 'Senegal', 'Sierra Leone', 'South Africa', 'Sudan', 'Tanzania', 'Timor-Leste', 'Togo', 'Uganda', 'Yemen', 'Zambia', ]
+Under-developing countries: [Afghanistan,Angola,Benin,Botswana,Burkina Faso,Burundi,Cameroon,Central African Republic,Chad,Comoros,Congo, Dem. Rep.,Congo, Rep.,Cote d'Ivoire,Equatorial Guinea,Eritrea,Gabon,Gambia,Ghana,Guinea,Guinea-Bissau,Haiti,Iraq,Kenya,Kiribati,Lao,Lesotho,Liberia,Madagascar,Malawi,Mali,Mauritania,Mozambique,Namibia,Niger,Nigeria,Pakistan,Rwanda,Senegal,Sierra Leone,South Africa,Sudan,Tanzania,Timor-Leste,Togo,Uganda,Yemen,Zambia]
 The no. of vaccines a country would receive: 425532
->>>>>>> e94cd28989d7e37fd8915a47a17da8ea708771a7
