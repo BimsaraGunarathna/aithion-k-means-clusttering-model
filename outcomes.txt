@@ -1,2 +1,2 @@
-No. of under-developing countries : 47
-The no. of vaccines a country would receive: 425532
+No. of under-developing countries : 85
+The no. of vaccines a country would receive: 235294.0
